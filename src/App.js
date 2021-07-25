@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          わーい <code>React</code> 使える〜
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/sonoka2"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          githubのリンクだよ
         </a>
       </header>
     </div>
